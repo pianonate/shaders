@@ -1,2 +1,2 @@
 # shaders
-varying shaders - currently using shadertoy
+varying shaders - currently glsl via shadertoy
